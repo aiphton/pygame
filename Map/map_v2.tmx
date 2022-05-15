@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="60" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="13">
+ <tileset firstgid="1" source="dungeon.tsx"/>
+ <layer id="1" name="Basislayer" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmE1uwjAQRpGgUs/SywBKs61YpyeBBbQXQmLXP2DTA+FIiTQdbA/uN44Tk8UTcUSSeZ6xHecwnUwOkTgb5oZ3w0Zg3fx3HzGe2Nyr75thK7AzFJn42lgSFobnTPJbNh6PD9e+/FwOvq7cuvKeiy/NZeHIeWrfb8MnwEfj0I5NibK5BnnmF5ifl4GB1EfruwrAFkPI9QiavhWJvyLtPhy3MWr70n5Ec+4jNK8VeY6Wb+px6eubEF9pfrXVc33+JzE0Nvorze+vDNp3tE19kZrRwjbW6vaTgK9WuP89+Wrk93f2Fw1fTipf7uZCw5fGJvneOn5D67lrX7SeuSufn6V32C596fwcy9e3VhwzyG8u9ewbv678avgic3OMeub3+u96pOkYs55tfYeuv0Py7ev7JM8J8m7v2y8g31w04LHF2A/2cV8Yy5fu9xG0HF3nNH3buaGPx9q+IblJUQeavkMC8T1N8W8u0nrIQb8VHQFfjTUy1BfJT2pG39F39E0f9+g7XN8L/6eqYQ==
+  </data>
+ </layer>
+ <layer id="2" name="Ebene 1" width="60" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztml1ugzAMgNHa0Zcdgoc99udGvdG2rgfY+y6zIQ5RqY/tLjAsFkGzxNhxEorkT/ILhSgfCcZGLYr0fC5pEZMDYTzKOUfHOW+R5wq8C8ekuNi8JPCIzRzmmJNXz/2Q3CfKtZs2nv/CsHMcCx1fCvb8+O5ZTrA5pMgnXNbF/7XcOo4pioLjy3f38JwrihKH/WLqGeQlxBer/b6WtzGGpI57WnRxeugD2CLXSNbXdnP5fVvHQnq4MY6PXQDG2Qfmi7276sFvY+tpO6dE4otRMxy4vpzvAB+WH+YLrjnyFeYr6QPB9eyY/8Zzfq7cnHM/Y0h8Q/fzlH11al/wbIh+c6jrwcX2No5UzxhUZR/AWjie6/vskMbjqN8VFYVHivp07swh9yvKENe7L9X78NLW7Vdi/Iz0a8r0UPLdgbmOnL0Xkm9j9immbrWB3pTrHYr0vwIcfL5ALl8pnP1lfFdlH1Ji7D/fmnNrMnsuVXnryvGV1IPaf3X8Ai77WO4=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Areas">
+  <object id="1" name="Fuel_Station" x="768" y="0" width="384" height="256"/>
+  <object id="2" name="Ores" x="1664" y="448" width="256" height="352"/>
+  <object id="3" name="Target" x="768" y="1024" width="384" height="256"/>
+ </objectgroup>
+</map>
